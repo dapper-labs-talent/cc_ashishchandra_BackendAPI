@@ -42,6 +42,7 @@ To check:
 `docker ps | grep postgres`
 
 If the postgres container is running, you should see output somewhat like this:
+
 `37034a0bf34e   postgres:12   "docker-entrypoint.s…"   2 minutes ago   Up 2 minutes   0.0.0.0:5432->5432/tcp, :::5432->5432/tcp   postgres`
 
 If the Postgres container is not running, you can start it with:
