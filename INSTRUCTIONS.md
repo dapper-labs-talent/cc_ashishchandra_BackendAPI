@@ -1,4 +1,4 @@
-# Instructions for the User registration API
+# Instructions for the User API
 
 ## Prerequisites
 
